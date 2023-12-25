@@ -7,15 +7,7 @@
   box-sizing: border-box;
   font-family: 'Inter', sans-serif;
 }
-/* *{
-  margin: 10px;
-  padding: 0;
-  box-sizing: border-box;
-}  */
 
-header h2{
-  font-size: 20px;
-}
 
 .bg-jsd-lightblue{
     background-color: #ECFCFF;
